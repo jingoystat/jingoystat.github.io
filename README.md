@@ -1,3 +1,1 @@
 # jingoystat.github.io
-
-## Welcome
