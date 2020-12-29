@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+```
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -37,6 +38,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -48,16 +50,23 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
+```
 
-###### Header 6
+GSI: Jing Ouyang, jingoy@umich.edu 
 
-| head1        | head two          | three |
+Lab: Wednesday 8:30 - 10:00 AM 
+
+OH: TBD 
+
+
+## Lab Notes
+
+| Date       | Slides          | Recordings |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|            |  |   |
 
+
+```
 ### There's a horizontal rule below this.
 
 * * *
@@ -113,6 +122,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+```
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
