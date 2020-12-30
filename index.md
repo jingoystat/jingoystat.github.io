@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-GSI: Jing Ouyang, jingoy@umich.edu 
+GSI: Jing Ouyang (jingoy@umich.edu)
 
 Lab: Wednesday 8:30 - 10:00 AM 
 
