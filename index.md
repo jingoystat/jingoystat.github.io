@@ -5,7 +5,7 @@ layout: default
 
 GSI: Jing Ouyang (jingoy@umich.edu)
 
-Lab: Wednesday 8:30 - 10:00 AM 
+Lab: Wednesday 8:30 - 10:00 AM (see canvas for Zoom link) 
 
 OH: TBD 
 
@@ -14,6 +14,6 @@ OH: TBD
 
 | Date       | Slides          | Recordings |
 |:-------------|:------------------|:------|
-|            | [Link to another page](./another-page.html). |   |
+|  Jan/27          | [Link to another page](./another-page.html). |   |
 
 
