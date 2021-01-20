@@ -18,4 +18,3 @@ OH: Tuesday 10:00 am - 11:30 am (answer questions on Slack)
 |:-------------|:------------------|:------|
 |  Jan/27          | [Link to another page](./another-page.html). |   |
 
-
