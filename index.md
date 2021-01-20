@@ -19,4 +19,3 @@ Office Hours:
 | Date       | Slides          | Recordings |
 |:-------------|:------------------|:------|
 |  Jan/27          | [Link to another page](./another-page.html). |   |
-
