@@ -13,6 +13,7 @@ Office Hours:
 &nbsp;&nbsp; Tuesday 10:00 am - 11:30 am (On Slack) \
 &nbsp;&nbsp; Thursday 7:00 pm - 8:30 pm (Zoom link on Canvas lecture site) 
 
+
 ## Lab Notes
 
 | Date       | Slides          | Recordings |
