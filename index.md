@@ -4,7 +4,7 @@ layout: default
 
 
 GSI:\
-&nbsp Jing Ouyang (jingoy@umich.edu)
+&nbsp; Jing Ouyang (jingoy@umich.edu)
 
 Lab: \
 &nbsp Wednesday 8:30 - 10:00 AM (Zoom link on Canvas lab site) 
