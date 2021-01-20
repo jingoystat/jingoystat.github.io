@@ -3,9 +3,11 @@ layout: default
 ---
 
 
-GSI: Jing Ouyang (jingoy@umich.edu)
+GSI:\
+Jing Ouyang (jingoy@umich.edu)
 
-Lab: Wednesday 8:30 - 10:00 AM (Zoom link on Canvas lab site) 
+Lab: \
+Wednesday 8:30 - 10:00 AM (Zoom link on Canvas lab site) 
 
 Office Hours:   
 - Tuesday 10:00 am - 11:30 am (On Slack) 
