@@ -20,4 +20,3 @@ Office Hours:
 |:-------------|:------------------|:------|
 |  Jan/27          | [Lab1_Introduction](Lab_notes/stats306_lab1.ipynb) |   |
 
-
