@@ -18,7 +18,6 @@ Office Hours:
 
 | Date       | Slides          | Recordings |
 |:-------------|:------------------|:------|
-|  Jan/27          | [Lab1_Introduction] |   |
+|  Jan/27          | [Lab1_Introduction](Lab_notes/stats306_lab1.ipynb) |   |
 
 
-[comment] :<> <(Lab_notes/stats306_lab1.ipynb)>
