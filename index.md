@@ -16,7 +16,7 @@ Office Hours:
 
 ## Lab Notes
 
-# For lab recordings, please go to Canvas STATS 306 004 WN 2021 -> Zoom -> Cloud Recordings
+#### For lab recordings, please go to Canvas STATS 306 004 WN 2021 -> Zoom -> Cloud Recordings
 
 | Date       | Slides          | 
 |:-------------|:------------------|
