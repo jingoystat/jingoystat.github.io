@@ -21,5 +21,4 @@ Office Hours:
 | Date       | Slides          | 
 |:-------------|:------------------|
 |  Jan 27          | Lab1 Introduction | 
-
-
+|  Feb 3          |  | 
