@@ -20,6 +20,6 @@ Office Hours:
 
 | Date       | Slides          | 
 |:-------------|:------------------|
-|  Jan 27          | Lab1 Introduction | 
+|  Jan 27          | [Lab1 Introduction](Lab_notes/stats306_lab1.ipynb) | 
 |  Feb 3          |  | 
 
