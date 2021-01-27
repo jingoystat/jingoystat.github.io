@@ -22,6 +22,5 @@ Office Hours:
 |  Jan 27          | [Lab1 Introduction](Lab_notes/stats306_lab1.ipynb) | 
 |  Feb 3          |  | 
 
-#### Github Page: [link](https://github.com/jingoystat/jingoystat.github.io)
 
 
