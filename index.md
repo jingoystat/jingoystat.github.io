@@ -20,9 +20,9 @@ Github Page:
 
 #### For lab recordings, please go to Canvas STATS 306 004 WN 2021 --> Zoom --> [Cloud Recordings](https://umich.instructure.com/courses/417268/external_tools/25194)
 
-| Date       | Slides          | 
-|:-------------|:------------------|
-|  Jan 27          | [Lab1 Introduction](Lab_notes/stats306_lab1.ipynb) | 
-|  Feb 3          |  | 
+| Date       | Slides          | Solution
+|:-------------|:------------------|:------------------|
+|  Jan 27          | [Lab1 Introduction](Lab_notes/stats306_lab1.ipynb) | [Lab1 Solution](Lab_sltn/stats306_lab1_sol.ipynb)|
+|  Feb 3          |  | |
 
 
