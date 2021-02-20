@@ -27,3 +27,4 @@ Github Page:
 |  Feb 10          | [Lab3 More on dplyr and chaining operators](Lab_notes/stats306_lab3.ipynb) | No exercise |
 |  Feb 17          |[Lab4 EDA part1](Lab_notes/stats306_lab4.ipynb) | No exercise|
 |  Feb 24          | Well-being break | |
+
