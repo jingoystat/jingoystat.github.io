@@ -23,7 +23,11 @@ Github Page:
 | Date       | Slides          | Solutions 
 |:-------------|:------------------|:------------------|
 |  Jan 27          | [Lab1 Introduction](Lab_notes/stats306_lab1.ipynb) | [Lab1 Solution](Lab_sltn/stats306_lab1_sol.ipynb)|
-|  Feb 3          | [Lab2 ggplot and dplyr](Lab_notes/stats306_lab2.ipynb) |[Lab2 Solution](Lab_sltn/stats306_lab2_sol.ipynb) |
+|  Feb 03          | [Lab2 ggplot and dplyr](Lab_notes/stats306_lab2.ipynb) |[Lab2 Solution](Lab_sltn/stats306_lab2_sol.ipynb) |
 |  Feb 10          | [Lab3 More on dplyr and chaining operators](Lab_notes/stats306_lab3.ipynb) | No exercise |
 |  Feb 17          |[Lab4 EDA part1](Lab_notes/stats306_lab4.ipynb) | No exercise|
 |  Feb 24          | Well-being break | |
+|  Mar 03          |[Lab5 Midterm Review](Lab_notes/stats306_lab5.ipynb) | |
+
+
+
