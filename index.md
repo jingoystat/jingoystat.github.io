@@ -28,3 +28,6 @@ Github Page:
 |  Feb 17          |[Lab4 EDA part1](Lab_notes/stats306_lab4.ipynb) | No exercise|
 |  Feb 24          | Well-being break | |
 |  Mar 03          |[Lab5 Midterm Review](Lab_notes/stats306_lab5.ipynb) | |
+
+
+
