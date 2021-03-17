@@ -27,7 +27,10 @@ Github Page:
 |  Feb 10          | [Lab3 More on dplyr and chaining operators](Lab_notes/stats306_lab3.ipynb) | No exercise |
 |  Feb 17          |[Lab4 EDA part1](Lab_notes/stats306_lab4.ipynb) | No exercise|
 |  Feb 24          | Well-being break | |
-|  Mar 03          |[Lab5 Midterm Review](Lab_notes/stats306_lab5.ipynb) | |
+|  Mar 03          |[Lab5 Midterm Review](Lab_notes/stats306_lab5.ipynb) | [Lab5 Solution](Lab_sltn/stats306_lab5_sol.ipynb) |
+|  Mar 10          |Midterm week |  |
+|  Mar 17          |[Lab6 Covariance and longer and wider tables](Lab_notes/stats306_lab6.ipynb) |  |
+
 
 
 
