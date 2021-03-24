@@ -33,4 +33,3 @@ Github Page:
 |  Mar 24          |[Lab 7 Missing values and cleaning the messy data](Lab_notes/stats306_lab7.ipynb) | [Lab7 Solution](Lab_sltn/stats306_lab7_sol.ipynb) |
 
 
-
