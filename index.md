@@ -31,7 +31,7 @@ Github Page:
 |  Mar 10          |Midterm week |  |
 |  Mar 17          |[Lab6 Longer and wider tables](Lab_notes/stats306_lab6.ipynb) | [Lab6 Solution](Lab_sltn/stats306_lab6_sol.ipynb) |
 |  Mar 24          |[Lab7 Missing values and cleaning the messy data](Lab_notes/stats306_lab7.ipynb) | [Lab7 Solution](Lab_sltn/stats306_lab7_sol.ipynb) |
-|  Apr 01          |[Lab8 Regular Expressions and Strings](Lab_notes/stats306_lab8.ipynb)| Lab8 Solution|
+|  Apr 01          |[Lab8 Regular Expressions and Strings](Lab_notes/stats306_lab8.ipynb)| |
 
 
 
