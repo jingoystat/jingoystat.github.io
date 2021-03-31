@@ -34,4 +34,3 @@ Github Page:
 |  Mar 31          |[Lab8 Regular Expressions and Strings](Lab_notes/stats306_lab8.ipynb)| [Lab8 Solution](Lab_sltn/stats306_lab8_sol.ipynb) |
 
 
-
