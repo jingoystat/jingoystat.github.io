@@ -25,12 +25,19 @@ Github Page:
 |  Jan 27          | [Lab1 Introduction](Lab_notes/stats306_lab1.ipynb) | [Lab1 Solution](Lab_sltn/stats306_lab1_sol.ipynb)|
 |  Feb 03          | [Lab2 ggplot and dplyr](Lab_notes/stats306_lab2.ipynb) |[Lab2 Solution](Lab_sltn/stats306_lab2_sol.ipynb) |
 |  Feb 10          | [Lab3 More on dplyr and chaining operators](Lab_notes/stats306_lab3.ipynb) | No exercise |
-|  Feb 17          |[Lab4 EDA part1](Lab_notes/stats306_lab4.ipynb) | No exercise|
+|  Feb 17          |[Lab4 EDA](Lab_notes/stats306_lab4.ipynb) | No exercise|
 |  Feb 24          | Well-being break | |
 |  Mar 03          |[Lab5 Midterm Review](Lab_notes/stats306_lab5.ipynb) | [Lab5 Solution](Lab_sltn/stats306_lab5_sol.ipynb) |
 |  Mar 10          |Midterm week |  |
 |  Mar 17          |[Lab6 Longer and wider tables](Lab_notes/stats306_lab6.ipynb) | [Lab6 Solution](Lab_sltn/stats306_lab6_sol.ipynb) |
-|  Mar 24          |[Lab 7 Missing values and cleaning the messy data](Lab_notes/stats306_lab7.ipynb) | [Lab7 Solution](Lab_sltn/stats306_lab7_sol.ipynb) |
+|  Mar 24          |[Lab7 Missing values and cleaning the messy data](Lab_notes/stats306_lab7.ipynb) | [Lab7 Solution](Lab_sltn/stats306_lab7_sol.ipynb) |
+|  Mar 31          |[Lab8 Regular Expressions and Strings](Lab_notes/stats306_lab8.ipynb)| [Lab8 Solution](Lab_sltn/stats306_lab8_sol.ipynb) |
+
+
+
+
+
+
 
 
 
