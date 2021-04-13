@@ -36,6 +36,3 @@ Github Page:
 |  Apr 14          |[Lab10 Lists, Loops, Functions, Mapping](Lab_sltn/stats306_lab10_sol.ipynb) | [Lab10 Solution](Lab_sltn/stats306_lab10_sol.ipynb)|
 
 
-
-
-
