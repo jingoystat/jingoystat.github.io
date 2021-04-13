@@ -33,7 +33,7 @@ Github Page:
 |  Mar 24          |[Lab7 Missing values and cleaning the messy data](Lab_notes/stats306_lab7.ipynb) | [Lab7 Solution](Lab_sltn/stats306_lab7_sol.ipynb) |
 |  Mar 31          |[Lab8 Regular Expressions and Strings](Lab_notes/stats306_lab8.ipynb)| [Lab8 Solution](Lab_sltn/stats306_lab8_sol.ipynb) |
 |  Apr 07          |[Lab9 Case Study: Practicing functions with News Headlines and The General Social Survey data](Lab_notes/stats306_lab9.ipynb) | [Lab9 Solution](Lab_sltn/stats306_lab9_sol.ipynb) |
-|  Apr 14          |[Lab10 Lists, Loops, Functions, Mapping] | [Lab10 Solution]|
+|  Apr 14          |[Lab10 Lists, Loops, Functions, Mapping](Lab_sltn/stats306_lab10_sol.ipynb) | [Lab10 Solution](Lab_sltn/stats306_lab10_sol.ipynb)|
 
 
 
